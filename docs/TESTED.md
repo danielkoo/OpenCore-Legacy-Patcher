@@ -22,10 +22,10 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | SMBIOS | Tested | Tester | Model | Version | Comment |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | MacBookAir2,1 | <span style="color:#30BCD5"> YES </span> | Bruno | Stock | 0.4.5 | Slow to the point of being unusable. |
-| MacBookAir3,1 | ^^ | uvesten | Stock | 0.3.3 | N/A |
+| MacBookAir3,1 | ^^ | uvesten | ^^ | 0.3.3 | N/A |
 | MacBookAir3,2 | ^^ | houser42 | ^^ | Unknown | ^^ |
-| MacBookAir4,1 | <span style="color:red"> NO </span> | N/A | N/A | N/A | ^^ |
-| MacBookAir4,2 | <span style="color:#30BCD5"> YES </span> | bdwilson1907 | Stock | 0.3.1 | Intermittent keyboard backlight |
+| MacBookAir4,1 | ^^ | DanK | ^^ | 0.6.7 | ^^ |
+| MacBookAir4,2 | ^^ | bdwilson1907 | ^^ | 0.3.1 | Intermittent keyboard backlight |
 | MacBookAir5,1 | ^^ | Ausdauersportler | ^^ | 0.0.9 | N/A |
 | ^^ | ^^ | webg3 | ^^ | Unknown | ^^ |
 | MacBookAir5,2 | ^^ | Bab-droid | ^^ | 0.0.19 | ^^ |
